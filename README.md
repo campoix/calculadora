@@ -5,4 +5,4 @@ A calculadora realiza operações básicas como:
 -Subtração
 -Multiplicação
 -Divisão
-
+-Raiz
